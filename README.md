@@ -1,6 +1,6 @@
-# MY-PORTFOLIO
+# MY PORTFOLIO
 
-This is my portfoliopage as a software developer
+This is my web development portfolio page. 
 
 
 ##AUTHOR
@@ -13,14 +13,14 @@ The code is written by Liban Chana . A sofware development student at Moringa Sc
 This is a project about my portfolio which gives details about me as a software developer,the previous projects have worked on and my contact on how to find me.
 
 
-######LANGUAGES USED
+##LANGUAGES USED
 
-This project is created using html and css languages
+This project is created using html and css languages.
 
 
-##CONTACT
+####CONTACT OF AUTHOR
 
-For any concern just reach out to this email address:libanchana70@gmailcom
+For any concern just reach out to this email address:libanchana70@gmailcom.
 
 
 ##LICENCE
@@ -30,4 +30,4 @@ MIT licence
 
 #COPYRIGHT
 
-Lban Chana ,Moringa School
+Lban Chana ,Moringa School.
