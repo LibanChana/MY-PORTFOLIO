@@ -10,6 +10,9 @@ This is a project about my portfolio which gives details about me as a software 
 ######LANGUAGES USED
 This project is created using html and css languages
 
+###GIT LIVE LINK
+https://github.com/LibanChana/MY-PORTFOLIO
+
 ##CONTACT
 For any concern just reach out to this email address:libanchana70@gmailcom
 
@@ -18,3 +21,5 @@ MIT licence
 
 #COPYRIGHT
 Lban Chana ,Moringa School
+
+
